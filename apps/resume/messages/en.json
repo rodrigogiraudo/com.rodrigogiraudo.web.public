@@ -1,6 +1,8 @@
 {
   "Index": {
     "title": "Hello world!"
+  },
+  "NotFound": {
+    "title": "Something went wrong"
   }
-  
 }
