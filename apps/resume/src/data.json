@@ -1,0 +1,192 @@
+[
+  {
+    "company": {
+      "name": "SIXT",
+      "url": "https://www.linkedin.com/company/sixt/posts/"
+    },
+    "from": "2021-05-17",
+    "current": true,
+    "location": "Munich, Bavaria, Germany",
+    "locationType": "hybrid",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Engineering Manager",
+        "description": "As an Engineering Manager, I am responsible for the delivery of my team (12 Senior Software Engineers). I need to look after each individual contributor in the team to create the perfect environment for them to perform at their best, and grow in their professional career to achieve all their objectives in alignment with the company's objectives. The team is Agile and distributed in several locations (Munich, Kyiv, and Bangalore) and we develop the Web, Android, and iOS apps facing the company's customers. I am responsible for keeping a healthy delivery rate and maintaining a great work environment. To ensure this we keep performance metrics, constant refinement of our processes, and alignment with the product manager to achieve the OKRs of the team. Also, we maintain our Tech debt roadmap to keep our codebase updated and be sure we clean up our code when A/B tests end or functionality is deprecated.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2021-11-17",
+        "current": true
+      },
+      {
+        "title": "Senior Software Engineering",
+        "description": "In SIXT as a Senior Software Engineer, I was part of the development of the new Booking funnel for the main web app of the company. We recreated the whole flow with a new approach technology-wise. We created all focused on a Monorepo utilizing Micro frontends, enabling over 50 engineers to deploy simultaneously. This project was a great experience to see a project come to life from scratch but also once live refine it to improve performance and for every functionality create A/B Testings to analyze what is better for the customer base and improve our conversion rate every day a little bit more. This was my second global project in a new continent and during my time developing for Sixt I manage to consolidate my coding skills and got back to what I think I can provide the most value at. that is helping other team members achieve new levels of performance, so I moved in the company to a new team to do exactly that.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2021-05-17",
+        "to": "2022-11-17",
+        "current": false,
+        "duration": "1 year and 7 months"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "Tarmac.io",
+      "url": "https://www.linkedin.com/company/tarmac-io/posts"
+    },
+    "from": "2019-04-01",
+    "to": "2021-04-30",
+    "current": false,
+    "location": "Córdoba, Argentina",
+    "locationType": "remote",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Senior Software Engineering",
+        "description": "In this position, I developed applications with React and React Native all in TypeScript. This was my first international experience and I learned quite a lot regarding starting a project from scratch, validating MVP, quick delivery, and rapid expansion, as we were a team augmentation company, we were part of several projects that were in the initial stages of development where the most important thing was to validate the idea and pivot the product based on the rapid feedback we got while delivering the MVP. Things that I value the most about my time in the company, are the opportunity to develop in several different industries and technologies, getting to know international standards, and great people from multiple nationalities and backgrounds.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2019-04-01",
+        "to": "2021-04-30",
+        "current": false,
+        "duration": "2 years"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "Shift Metrics",
+      "url": "https://www.linkedin.com/company/shift-metrics/posts"
+    },
+    "from": "2015-10-01",
+    "to": "2019-04-30",
+    "current": false,
+    "location": "Córdoba, Argentina",
+    "locationType": "hybrid",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Engineering Manager",
+        "description": "At SHIFT I guided the development strategy of the company, and was in charge of team formation and training, from hiring to the development of each individual contributor's career path. I was responsible for keeping a healthy delivery rate and maintaining a great work environment. To ensure this we kept performance metrics, constant refinement of our processes, and alignment with the product manager to achieve the OKRs of the team. With the team, we created an online service that allowed companies to make better decisions by having a real-time KPIs dashboard with comprehensible visualization of multiple sources on a single platform.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2015-10-01",
+        "to": "2019-04-30",
+        "current": false,
+        "duration": "3 years and 7 months"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "Intertron",
+      "url": "https://www.linkedin.com/company/intertronit/posts/"
+    },
+    "from": "2015-08-01",
+    "to": "2017-10-30",
+    "current": false,
+    "location": "Córdoba, Argentina",
+    "locationType": "hybrid",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Project Manager & Scrum Master",
+        "description": "I was in charge of gathering requirements from the clients, understanding the needs, and creating comprehensible documentation to translate those needs into business requirements for formal project tenders. Once we won the tender and the internal project was approved, I was in charge of forming the team with the internal engineers of Intertron and in case of need, in charge of hiring new talent. Also, I was responsible for creating, maintaining, and refining the backlog of the project and guiding the team through the development path from the beginning until production release, and coordinating a proper maintenance strategy once delivery was done.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2015-08-01",
+        "to": "2017-10-30",
+        "current": false,
+        "duration": "2 years and 3 months"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "Blauffee",
+      "url": "https://www.linkedin.com/company/blauffee/about/"
+    },
+    "from": "2014-01-01",
+    "to": "2015-09-30",
+    "current": false,
+    "location": "Córdoba, Argentina",
+    "locationType": "hybrid",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Software Engineer",
+        "description": "We created a Fitness Manager Software with self-service booking focused on CrossFit.My role consisted in implementing new features, we were a full-stack team so the ownership was cross product.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2014-01-01",
+        "to": "2015-09-30",
+        "current": false,
+        "duration": "1 year and 11 months"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "Globant",
+      "url": "https://www.linkedin.com/company/globant/posts"
+    },
+    "from": "2014-03-01",
+    "to": "2014-07-30",
+    "current": false,
+    "location": "Córdoba, Argentina",
+    "locationType": "on-site",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Business Analyst",
+        "description": "At Globant I worked as a Business Analyst for a Southwest Airlines Project where we managed the rules for flight crew assignation to different trips. My role consisted of gathering requirements from different stakeholders and creating, refining, and maintaining a proper backlog for the SCRUM team. Guiding the product priorities alongside supporting the team on any doubt they might have on what to implement.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2014-03-01",
+        "to": "2014-07-30",
+        "current": false,
+        "duration": "4 months"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "eSolutions",
+      "url": "https://www.linkedin.com/company/esolutions-sa/posts"
+    },
+    "from": "2012-02-01",
+    "to": "2014-03-30",
+    "current": false,
+    "location": "Córdoba, Argentina",
+    "locationType": "on-site",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Business Analyst",
+        "description": "I worked in a full-stack team of 8 Engineers, my role consisted of gathering requirements from customers and different stakeholders and creating, refining, and maintaining a proper backlog for the SCRUM team. Guiding the product priorities alongside supporting the team on any doubt they might have on what to implement. This project was for Claro (telecommunications company) in order to make the Self Management site a better software. “Autogestión Corporativa” Project – Claro (América Móvil): http://empresas.claro.com.ar",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2012-02-01",
+        "to": "2014-03-30",
+        "current": false,
+        "duration": "2 years and 2 months"
+      }
+    ]
+  },
+  {
+    "company": {
+      "name": "Clases Particulares Rosario",
+      "url": "https://www.linkedin.com/company/esolutions-sa/posts"
+    },
+    "from": "2008-01-01",
+    "to": "2011-12-30",
+    "current": false,
+    "location": "Rosario, Santa Fe, Argentina",
+    "locationType": "on-site",
+    "employmentType": "full-time",
+    "positions": [
+      {
+        "title": "Programming Professor",
+        "description": "During my time at Rosario, I started teaching all coding-related courses of all the engineering careers from the UTN (Universidad Tecnológica Nacional) and the UNR (Universidad Nacional de Rosario). I detected that for most carriers, the students did not have a well-structured thought process that would help them succeed at the coding courses they had. and as those courses were mandatory in all engineering degrees, I founded a great nich where to expand my coaching skills. Focusing on structuring the thought process and teaching fundamentals of logic and algorithms I manage to establish myself as the Goto private teacher for this need.",
+        "skills": ["React", "Typescript", "Scrum", "Git"],
+        "from": "2012-02-01",
+        "to": "2014-03-30",
+        "current": false,
+        "duration": "2 years and 2 months"
+      }
+    ]
+  }
+]
